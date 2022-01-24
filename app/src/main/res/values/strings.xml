@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">ZERI</string>
+    <string name="logo" translatable="false">Logo_lol</string>
+    <string name="zeri" translatable="false">Zeri</string>
+    <string name="zeri_opis">ZERI ― ABILITIES RUNDOWN</string>
+    <string name="passiv" translatable="false">passiv</string>
+    <string name="Q" translatable="false">Q</string>
+    <string name="W" translatable="false">W</string>
+    <string name="E" translatable="false">E</string>
+    <string name="R" translatable="false">R</string>
+    <string name="video" translatable="false">video</string>
+    <string name="Nazwap">Passive - Living Battery</string>
+    <string name="Opisp">Zeri gains Move Speed whenever she receives a shield. When she damages an enemy shield she absorbs its energy, shielding herself.</string>
+    <string name="Nazwaq">Q — Burst Fire</string>
+    <string name="Nazwaw">W — Ultrashock Laser</string>
+    <string name="Opisw">Zeri fires an electric pulse that slows and damages the first enemy hit. If the pulse hits a wall it fires a long range laser from the point of impact.</string>
+    <string name="Nazwae">E — Spark Surge</string>
+    <string name="Opise">Zeri dashes a short distance and energizes her next 3 casts of Burst Fire, causing them to pierce through enemies. She will vault over or grind along any terrain she dashes into, depending on the angle. Hitting a champion with an attack or ability reduces Spark Surge’s cooldown.</string>
+    <string name="Nazwar">R — Lightning Crash</string>
+    <string name="Opisr">Zeri discharges a nova of electricity, damaging nearby enemies, and overcharges herself for a moderate duration. While overcharged, Zeri gains increased damage, Attack Speed, and Move Speed. Attacking enemy champions refreshes the overcharge duration and adds another stack of Move Speed. While overcharged, Burst Fire\'s damage concentrates into a faster triple shot that chains lightning between enemies.</string>
+    <string name="Opisq">Passive: Zeri\'s basic attack deals magic damage, scales with AP, and is treated as an ability. Moving and casting Burst Fire stores up energy in Zeri\'s Sparkpack. When fully charged, her next basic attack will slow and deal bonus damage. Active: Burst Fire shoots a burst of 7 rounds that deal physical damage to the first enemy hit. Burst Fire scales with AD and is treated like an attack, with the first round applying on-hit effects. Its cooldown matches Zeri’s basic attack timer.</string>
+
+</resources>

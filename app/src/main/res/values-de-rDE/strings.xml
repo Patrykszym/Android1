@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zeri_opis">ZERIS ― FÄHIGKEITEN</string>
+    <string name="Nazwap">Passiv ― Lebende Batterie</string>
+    <string name="Opisp">Wenn Zeri einen Schild erhält, erhöht sich ihr Lauftempo. Wenn sie dem Schild eines Gegners Schaden zufügt, absorbiert sie dessen Energie und erhält selbst einen Schild.</string>
+    <string name="Nazwaq">Q ― Feuerstoß</string>
+    <string name="Nazwaw">W ― Ultraschock-Laser</string>
+    <string name="Opisw">Zeri feuert einen elektrischen Puls ab, der den ersten getroffenen Gegner verlangsamt und ihm Schaden zufügt. Wenn der Puls auf eine Mauer trifft, wird am Aufprallort ein Laser mit hoher Reichweite entfesselt.</string>
+    <string name="Nazwae">E ― Funkenüberspannung</string>
+    <string name="Opisr">Zeri entfesselt eine Elektrizitätsnova, die nahen Gegnern Schaden zufügt und sie selbst für eine bestimmte Zeit überlädt. Während Zeri überladen ist, erhöhen sich ihr Schaden, ihr Angriffstempo und ihr Lauftempo. Angriffe auf gegnerische Champions setzen die Dauer der Überladung zurück und steigern ihr Lauftempo weiter. Während der Überladung wird aus „Feuerstoß“ ein schneller Dreifachschuss, der Kettenblitz auf Gegner überspringen lässt.</string>
+    <string name="Opisq">Passiv: Zeris normaler Angriff verursacht magischen Schaden, skaliert mit Fähigkeitsstärke und wird wie eine Fähigkeit behandelt. Wenn sich Zeri bewegt und „Feuerstoß“ wirkt, wird ihr Ladungsrucksack aufgeladen. Sobald ihr Ladungsrucksack vollständig aufgeladen ist, verlangsamt ihr nächster normaler Angriff das Ziel und verursacht zusätzlichen Schaden.</string>
+    <string name="Nazwar">R ― Blitzeinschlag</string>
+    <string name="Opise">Zeri springt über eine kurze Entfernung und verstärkt ihre nächsten drei Aktivierungen von „Feuerstoß“, sodass die Geschosse Gegner durchdringen. Wenn sie beim Springen auf Terrain trifft, hüpft sie abhängig vom Winkel darüber oder gleitet daran entlang. Die Abklingzeit von „Funkenüberspannung“ wird verkürzt, wenn sie einen Champion mit Angriffen oder Fähigkeiten trifft.</string>
+</resources>

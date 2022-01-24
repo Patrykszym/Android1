@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Nazwap">Umiejętność bierna — Żywa Bateria</string>
+    <string name="zeri_opis">ZERI ― UMIEJĘTNOŚCI W SKRÓCIE</string>
+    <string name="Opisp">Zeri zyskuje prędkość ruchu za każdym razem, gdy otrzyma tarczę. Gdy zniszczy tarczę wroga, wchłania jej energię i sama zyskuje ochronę tarczy.</string>
+    <string name="Nazwaq">Q — Szybka Seria</string>
+    <string name="Nazwaw">W — Laserowy Wstrząs</string>
+    <string name="Opisw">Zeri wystrzeliwuje impuls elektryczny, który spowalnia pierwszego trafionego wroga i zadaje mu obrażenia. Jeśli impuls trafi w ścianę, wysyła długą wiązkę laserową z punktu uderzenia.</string>
+    <string name="Opisq">Biernie: Atak podstawowy Zeri zadaje obrażenia magiczne, skaluje się z mocą umiejętności i jest traktowany jako umiejętność. Poruszanie się i rzucanie Szybkiej Serii magazynuje energię z Iskropaku Zeri. Gdy jest on w pełni naładowany, jej następny atak spowalnia i zadaje obrażenia dodatkowe. Użycie: Szybka Seria wystrzeliwuje 7 pocisków, które zadają obrażenia fizyczne pierwszemu trafionemu wrogowi. Szybka Seria skaluje się z obrażeniami od ataku i jest traktowana jako atak, a pierwszy pocisk nakłada efekty przy trafieniu. Czas odnowienia odpowiada podstawowemu atakowi Zeri.</string>
+    <string name="Nazwae">E — Iskrząca Moc</string>
+    <string name="Nazwar">R — Piorunujący Strzał</string>
+    <string name="Opisr">Zeri uwalnia kumulację energii, raniąc pobliskich wrogów i przeładowując siebie samą na pewien czas. Gdy jest przeładowana, Zeri zyskuje zwiększone obrażenia, prędkość ataku i prędkość ruchu. Atakowanie wrogich bohaterów odświeża czas trwania przeładowania i dodaje kolejną kumulację prędkości ruchu. Podczas przeładowania obrażenia zadawane przez Szybką Serię koncentrują się w szybszy potrójny wystrzał, który tworzy łańcuch wyładowań pomiędzy wrogami.</string>
+    <string name="Opise">Zeri doskakuje na krótki dystans i ładuje 3 kolejne rzucenia Szybkiej Serii, dzięki czemu przebija ona wrogów. Zeri przeskoczy lub przedrze się (w zależności od kąta) przez każdy teren, na który doskakuje. Trafienie bohatera atakiem lub umiejętnością redukuje czas odnowienia Iskrzącej Mocy.</string>
+</resources>
